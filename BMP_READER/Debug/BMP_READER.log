@@ -1,0 +1,91 @@
+﻿Построение начато 8/20/2018 5:31:27 AM.
+     1>Проект "c:\Users\Pavel\documents\visual studio 2010\Projects\BMP_READER\BMP_READER\BMP_READER.vcxproj" в узле 2 (целевые объекты build).
+     1>PrepareForBuild:
+         Создание каталога "c:\users\pavel\documents\visual studio 2010\Projects\BMP_READER\Debug\".
+       InitializeBuildStatus:
+         Создание "Debug\BMP_READER.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt IMG.cpp main.cpp menu.cpp
+         menu.cpp
+     1>c:\users\pavel\documents\visual studio 2010\projects\bmp_reader\bmp_reader\img.h(48): warning C4086: требуется параметр директивы pragma: "1", "2", "4", "8" или "16"
+     1>c:\users\pavel\documents\visual studio 2010\projects\bmp_reader\bmp_reader\menu.cpp(3): warning C4103: c:\users\pavel\documents\visual studio 2010\projects\bmp_reader\bmp_reader\menu.cpp: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+     1>c:\users\pavel\documents\visual studio 2010\projects\bmp_reader\bmp_reader\menu.cpp(36): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304): см. объявление "scanf"
+     1>c:\users\pavel\documents\visual studio 2010\projects\bmp_reader\bmp_reader\menu.cpp(54): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304): см. объявление "scanf"
+     1>c:\users\pavel\documents\visual studio 2010\projects\bmp_reader\bmp_reader\menu.cpp(56): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234): см. объявление "fopen"
+     1>c:\users\pavel\documents\visual studio 2010\projects\bmp_reader\bmp_reader\menu.cpp(72): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304): см. объявление "scanf"
+     1>c:\users\pavel\documents\visual studio 2010\projects\bmp_reader\bmp_reader\menu.cpp(74): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234): см. объявление "fopen"
+     1>c:\users\pavel\documents\visual studio 2010\projects\bmp_reader\bmp_reader\menu.cpp(97): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304): см. объявление "scanf"
+     1>c:\users\pavel\documents\visual studio 2010\projects\bmp_reader\bmp_reader\menu.cpp(106): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304): см. объявление "scanf"
+     1>c:\users\pavel\documents\visual studio 2010\projects\bmp_reader\bmp_reader\menu.cpp(115): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304): см. объявление "scanf"
+         main.cpp
+     1>c:\users\pavel\documents\visual studio 2010\projects\bmp_reader\bmp_reader\img.h(48): warning C4086: требуется параметр директивы pragma: "1", "2", "4", "8" или "16"
+     1>c:\users\pavel\documents\visual studio 2010\projects\bmp_reader\bmp_reader\main.cpp(3): warning C4103: c:\users\pavel\documents\visual studio 2010\projects\bmp_reader\bmp_reader\main.cpp: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+         IMG.cpp
+     1>c:\users\pavel\documents\visual studio 2010\projects\bmp_reader\bmp_reader\img.h(48): warning C4086: требуется параметр директивы pragma: "1", "2", "4", "8" или "16"
+     1>c:\users\pavel\documents\visual studio 2010\projects\bmp_reader\bmp_reader\img.cpp(3): warning C4103: c:\users\pavel\documents\visual studio 2010\projects\bmp_reader\bmp_reader\img.cpp: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+     1>c:\users\pavel\documents\visual studio 2010\projects\bmp_reader\bmp_reader\img.cpp(168): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\pavel\documents\visual studio 2010\projects\bmp_reader\bmp_reader\img.cpp(179): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\pavel\documents\visual studio 2010\projects\bmp_reader\bmp_reader\img.cpp(234): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\pavel\documents\visual studio 2010\projects\bmp_reader\bmp_reader\img.cpp(241): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\pavel\documents\visual studio 2010\projects\bmp_reader\bmp_reader\img.cpp(251): warning C4244: =: преобразование "const double" в "unsigned char", возможна потеря данных
+     1>c:\users\pavel\documents\visual studio 2010\projects\bmp_reader\bmp_reader\img.cpp(253): warning C4244: =: преобразование "const double" в "unsigned char", возможна потеря данных
+     1>c:\users\pavel\documents\visual studio 2010\projects\bmp_reader\bmp_reader\img.cpp(255): warning C4244: =: преобразование "const double" в "unsigned char", возможна потеря данных
+     1>c:\users\pavel\documents\visual studio 2010\projects\bmp_reader\bmp_reader\img.cpp(258): warning C4244: =: преобразование "const double" в "unsigned char", возможна потеря данных
+     1>c:\users\pavel\documents\visual studio 2010\projects\bmp_reader\bmp_reader\img.cpp(259): warning C4244: =: преобразование "const double" в "unsigned char", возможна потеря данных
+     1>c:\users\pavel\documents\visual studio 2010\projects\bmp_reader\bmp_reader\img.cpp(260): warning C4244: =: преобразование "const double" в "unsigned char", возможна потеря данных
+     1>c:\users\pavel\documents\visual studio 2010\projects\bmp_reader\bmp_reader\img.cpp(273): warning C4244: =: преобразование "const double" в "unsigned char", возможна потеря данных
+     1>c:\users\pavel\documents\visual studio 2010\projects\bmp_reader\bmp_reader\img.cpp(275): warning C4244: =: преобразование "const double" в "unsigned char", возможна потеря данных
+     1>c:\users\pavel\documents\visual studio 2010\projects\bmp_reader\bmp_reader\img.cpp(277): warning C4244: =: преобразование "const double" в "unsigned char", возможна потеря данных
+     1>c:\users\pavel\documents\visual studio 2010\projects\bmp_reader\bmp_reader\img.cpp(280): warning C4244: =: преобразование "const double" в "unsigned char", возможна потеря данных
+     1>c:\users\pavel\documents\visual studio 2010\projects\bmp_reader\bmp_reader\img.cpp(281): warning C4244: =: преобразование "const double" в "unsigned char", возможна потеря данных
+     1>c:\users\pavel\documents\visual studio 2010\projects\bmp_reader\bmp_reader\img.cpp(282): warning C4244: =: преобразование "const double" в "unsigned char", возможна потеря данных
+     1>c:\users\pavel\documents\visual studio 2010\projects\bmp_reader\bmp_reader\img.cpp(288): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\pavel\documents\visual studio 2010\projects\bmp_reader\bmp_reader\img.cpp(297): warning C4244: =: преобразование "const double" в "unsigned short", возможна потеря данных
+     1>c:\users\pavel\documents\visual studio 2010\projects\bmp_reader\bmp_reader\img.cpp(299): warning C4244: =: преобразование "const double" в "unsigned short", возможна потеря данных
+     1>c:\users\pavel\documents\visual studio 2010\projects\bmp_reader\bmp_reader\img.cpp(301): warning C4244: =: преобразование "const double" в "unsigned short", возможна потеря данных
+     1>c:\users\pavel\documents\visual studio 2010\projects\bmp_reader\bmp_reader\img.cpp(304): warning C4244: =: преобразование "const double" в "unsigned short", возможна потеря данных
+     1>c:\users\pavel\documents\visual studio 2010\projects\bmp_reader\bmp_reader\img.cpp(305): warning C4244: =: преобразование "const double" в "unsigned short", возможна потеря данных
+     1>c:\users\pavel\documents\visual studio 2010\projects\bmp_reader\bmp_reader\img.cpp(306): warning C4244: =: преобразование "const double" в "unsigned short", возможна потеря данных
+     1>c:\users\pavel\documents\visual studio 2010\projects\bmp_reader\bmp_reader\img.cpp(312): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\pavel\documents\visual studio 2010\projects\bmp_reader\bmp_reader\img.cpp(346): warning C4018: >: несоответствие типов со знаком и без знака
+     1>c:\users\pavel\documents\visual studio 2010\projects\bmp_reader\bmp_reader\img.cpp(346): warning C4018: >: несоответствие типов со знаком и без знака
+     1>c:\users\pavel\documents\visual studio 2010\projects\bmp_reader\bmp_reader\img.cpp(360): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\pavel\documents\visual studio 2010\projects\bmp_reader\bmp_reader\img.cpp(361): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\pavel\documents\visual studio 2010\projects\bmp_reader\bmp_reader\img.cpp(373): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\pavel\documents\visual studio 2010\projects\bmp_reader\bmp_reader\img.cpp(374): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\pavel\documents\visual studio 2010\projects\bmp_reader\bmp_reader\img.cpp(390): warning C4018: >: несоответствие типов со знаком и без знака
+     1>c:\users\pavel\documents\visual studio 2010\projects\bmp_reader\bmp_reader\img.cpp(390): warning C4018: >: несоответствие типов со знаком и без знака
+     1>c:\users\pavel\documents\visual studio 2010\projects\bmp_reader\bmp_reader\img.cpp(431): warning C4018: <: несоответствие типов со знаком и без знака
+         Создание кода...
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\BMP_READER.exe.embed.manifest.res" Debug\BMP_READER_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\pavel\documents\visual studio 2010\Projects\BMP_READER\Debug\BMP_READER.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\BMP_READER.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"c:\users\pavel\documents\visual studio 2010\Projects\BMP_READER\Debug\BMP_READER.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\pavel\documents\visual studio 2010\Projects\BMP_READER\Debug\BMP_READER.lib" /MACHINE:X86 Debug\BMP_READER.exe.embed.manifest.res
+         Debug\IMG.obj
+         Debug\main.obj
+         Debug\menu.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\BMP_READER.exe.embed.manifest" /manifest Debug\BMP_READER.exe.intermediate.manifest
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\BMP_READER.exe.embed.manifest.res" Debug\BMP_READER_manifest.rc 
+       LinkEmbedManifest:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\pavel\documents\visual studio 2010\Projects\BMP_READER\Debug\BMP_READER.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\BMP_READER.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"c:\users\pavel\documents\visual studio 2010\Projects\BMP_READER\Debug\BMP_READER.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\pavel\documents\visual studio 2010\Projects\BMP_READER\Debug\BMP_READER.lib" /MACHINE:X86 Debug\BMP_READER.exe.embed.manifest.res
+         Debug\IMG.obj
+         Debug\main.obj
+         Debug\menu.obj
+         BMP_READER.vcxproj -> c:\users\pavel\documents\visual studio 2010\Projects\BMP_READER\Debug\BMP_READER.exe
+       FinalizeBuildStatus:
+         Файл "Debug\BMP_READER.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\BMP_READER.lastbuildstate".
+     1>Построение проекта "c:\Users\Pavel\documents\visual studio 2010\Projects\BMP_READER\BMP_READER\BMP_READER.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:07.57
